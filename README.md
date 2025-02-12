@@ -16,7 +16,7 @@
 
 ## 工具栈
 
-![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,arch,arduino,au,aws,autocad,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,cmake,css,debian,discord,docker,dotnet,eclipse,fastapi,flutter,gamemakerstudio,gcp,git,github,gitlab,gmail,html,idea,java,js,kotlin,kali,linux,md,matlab,mongodb,mysql,nginx,npm,opencv,ps,php,postgres,powershell,pr,pycharm,py,pytorch,raspberrypi,redhat,stackoverflow,sketchup,svg,tensorflow,twitter,ubuntu,unity,vim,visualstudio,vscode,windows,wordpress)
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,php,kotlin,py,anaconda,androidstudio,arduino,eclipse,gamemakerstudio,idea,pycharm,unity,visualstudio,vscode,git,github,gitlab,bootstrap,css,flutter,html,svg,dotnet,fastapi,aws,azure,cloudflare,docker,gcp,nginx,mongodb,mysql,postgres,matlab,opencv,pytorch,tensorflow,ae,au,autocad,blender,ps,pr,sketchup,arch,debian,kali,linux,raspberrypi,redhat,ubuntu,windows,bash,cmake,discord,gmail,md,npm,powershell,stackoverflow,twitter,vim,wordpress)
 
 <!---
 Liuxc2005/Liuxc2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
